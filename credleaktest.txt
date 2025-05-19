@@ -7,3 +7,11 @@ q618Q~RLNRPMYs6JE16siYS.VTxB7QoJKm3DwbE0
   "AadSecret": "q618Q~RLNRPMYs6JE16siYS.VTxB7QoJKm3DwbE0",
   "AadTenantDomain": "hsuzawa.onmicrosoft.com",
   "AadTenantId": "77c72214-0336-41b9-8916-06ce78c0aee5",
+
+
+
+id
+idleak@hsuzawa.com
+
+password
+Cawu768000
