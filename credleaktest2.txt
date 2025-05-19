@@ -5,3 +5,9 @@ A3m8Q~~A0XKiBFOoetta.VnoGFzH_OyZLAGrHccv
   "AadSecret": "A3m8Q~~A0XKiBFOoetta.VnoGFzH_OyZLAGrHccv",
   "AadTenantDomain": "stu725.onmicrosoft.com",
   "AadTenantId": "c02d6bfd-a61f-4dd9-b588-4ee8c7fd31b9",
+
+
+
+idleak@stu725.onmicrosoft.com
+
+Vuma174987
