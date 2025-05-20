@@ -1,5 +1,7 @@
 A3m8Q~~A0XKiBFOoetta.VnoGFzH_OyZLAGrHccv
 
+test for detction of credential leak
+
 
 "AadClientId": "fb02d5e4-176f-4d9c-a912-bb1827c902c7",
   "AadSecret": "A3m8Q~~A0XKiBFOoetta.VnoGFzH_OyZLAGrHccv",
